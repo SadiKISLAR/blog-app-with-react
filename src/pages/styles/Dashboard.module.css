@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+}
+
+.new-blog-button {
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+}
+
+.new-blog-button p {
+    opacity: 0;
+    transition: all .3s;
+}
+
+.button-icon {
+    width: 3rem !important;
+    height: 3rem !important;
+    color: #617C8C;
+}
+
+.new-blog-button:hover p {
+    opacity: 1;
+}
+
+.new-blog-button:hover .button-icon {
+    color: #3a5c6f;
+}
