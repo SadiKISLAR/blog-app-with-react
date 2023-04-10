@@ -56,7 +56,7 @@ function NavBar() {
                             }}
                             onClick={() => navigate("/")}
                         >
-                            BLOG APP
+                            SHADY'S BLOG APP
                         </Typography>
 
                         <RateReviewTwoToneIcon
