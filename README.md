@@ -4,11 +4,11 @@ In this project I used the React on frontend side and Django on Backend side. Ea
 
 ## You can see documents.
 
-(https://sadikislar2.pythonanywhere.com/redoc/)
+https://sadikislar2.pythonanywhere.com/redoc/
 
 ### Endpoints here:
 
-(https://sadikislar2.pythonanywhere.com/swagger)
+https://sadikislar2.pythonanywhere.com/swagger
 
 
 ### Project
@@ -17,4 +17,5 @@ In this project I used the React on frontend side and Django on Backend side. Ea
 
 
 
-
+### Project gif
+![min](https://user-images.githubusercontent.com/108137435/230864450-08971266-f065-43ca-93c9-bcb4cf22d24f.gif)
