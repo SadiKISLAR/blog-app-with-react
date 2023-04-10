@@ -13,7 +13,7 @@ https://sadikislar2.pythonanywhere.com/swagger
 
 ### Project
 
-
+https://blog-app-with-react-rosy.vercel.app/
 
 
 
