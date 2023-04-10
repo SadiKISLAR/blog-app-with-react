@@ -5,7 +5,7 @@ import loginStyle from "./styles/Login.module.css";
 import FingerprintIcon from "@mui/icons-material/Fingerprint";
 import { useState } from "react";
 import useAuthCalls from "../hooks/useAuthCalls";
-import blogImage from "../assets/images.jpg";
+import blogImage from "../assets/blogLogo2.png";
 import { grey } from "@mui/material/colors";
 import { useNavigate } from "react-router";
 import { Typography } from "@mui/material";
